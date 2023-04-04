@@ -1,0 +1,40 @@
+body {
+    background-color: #c9e5e6;
+  }
+  
+  h1 {
+    color: navy;
+    margin-left: 20px;
+   align-self: center;
+    text-align: center;
+    padding-top: 70px;
+    font-size: 50px;
+  }
+ 
+ 
+
+
+
+.placecard {
+display: flex;
+height: 600px;
+flex-direction: row;
+justify-content: center;
+background-color: rgb(255, 255, 255);
+
+}
+
+.timer-container{
+display: flex;
+justify-content: flex-end;
+background-color: #d5f2f4;
+
+}
+
+.countdown{
+
+padding-right: 50px;
+color: rgb(249, 64, 64)
+}
+
+
